@@ -36,6 +36,8 @@ Yuxuan Yang, Ahmad Hamzeh, Maxwell Astafyev, Hussein Sibai. *[ICRA, 2026]*
 - **A Unified Incremental Updating Framework of Attribute Reduction for Two-dimensionally Time-evolving Data**  
   Xin Yang, Yuxuan Yang, Junfang Luo, Dun Liu, Tianrui Li. *[Information Sciences, 2022]*
 
+---
+
 Outside of research, I enjoy playing all kinds of games (Dota2, Elder Ring, Baldur's Gate 3). 
 I also love cooking and playing Changsha Mahjong. If you are a student in St. Louis 
 who shares any of these interests, feel free to reach out — I would love to connect!
