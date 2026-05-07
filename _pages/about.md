@@ -19,9 +19,19 @@ Reinforcement Learning, Diffusion Policy, and Vision-Language-Action models.
 ## Publications
 
 - **Learning Neural Control Barrier Functions from Expert Demonstrations using Inverse 
-Constraint Learning** — Yuxuan Yang, Hussein Sibai. *[Venue, 2025]*  
+Constraint Learning** — Yuxuan Yang, Hussein Sibai. *[ICRA, 2026]*  
 [[Paper]](https://arxiv.org/abs/2510.21560)
 
 - **Designing Latent Safety Filters using Pre-Trained Vision Models** — Ihab Tabbara, 
-Yuxuan Yang, Ahmad Hamzeh, Maxwell Astafyev, Hussein Sibai. *[Venue, 2025]*  
+Yuxuan Yang, Ahmad Hamzeh, Maxwell Astafyev, Hussein Sibai. *[ICRA, 2026]*  
 [[Paper]](https://arxiv.org/abs/2509.14758)
+
+- **Forgetting Prevention for Cross-regional Fraud Detection with Heterogeneous Trade Graph**  
+  Yujie Li, Yuxuan Yang, Xin Yang, Qiang Gao, Fan Zhou. *[arXiv, 2022]*  
+  [[Paper]](https://arxiv.org/abs/2204.10085)
+
+- **Three-way Multi-granularity Learning towards Open Topic Classification**  
+  Xin Yang, Yujie Li, Dan Meng, Yuxuan Yang, Dun Liu, Tianrui Li. *[Information Sciences, 2022]*
+
+- **A Unified Incremental Updating Framework of Attribute Reduction for Two-dimensionally Time-evolving Data**  
+  Xin Yang, Yuxuan Yang, Junfang Luo, Dun Liu, Tianrui Li. *[Information Sciences, 2022]*
