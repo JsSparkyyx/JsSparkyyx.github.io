@@ -11,7 +11,9 @@ Hello! My name is Yuxuan Yang. I am a first year PhD student in Computer Science
 advised by [Prof. Hussein Sibai](https://sibai.github.io). I received my M.S. in Computer 
 Science from WashU under the supervision of Prof. Hussein Sibai, and my B.S. in Computer Science 
 from **Southwestern University of Finance and Economics**, where I was mentored by 
-[Prof. Xin Yang](https://it.swufe.edu.cn/info/1120/14868.htm) and worked on continual learning and lifelong learning. I study safe robot learning and learning-based control. 
+[Prof. Xin Yang](https://it.swufe.edu.cn/info/1120/14868.htm) and worked on continual learning and lifelong learning. 
+
+I study safe robot learning and learning-based control. 
 I'm particularly interested in data-driven approaches for synthesizing safety certificates (Control Barrier Functions 
 and Hamilton-Jacobi reachability) and applying them to robot learning settings such as 
 Reinforcement Learning, Diffusion Policy, and Vision-Language-Action models.
